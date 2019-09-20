@@ -1,3 +1,6 @@
+# Data 
+*.docx
+
 # Mac specific
 .DS_Store
 
@@ -26,6 +29,7 @@
 
 # RStudio files
 .Rproj.user/
+.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -167,3 +171,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.Rproj.user
+*.Rproj
